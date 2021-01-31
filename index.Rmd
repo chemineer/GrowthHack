@@ -14,55 +14,132 @@ description: "이 자료는 bookdown 패키지를 이용하여 작성한 번역�
 
 # Foreword
 
-Writing a book about growth hacking can be a little like the proverbial hopeless task of nailing Jell-O to the wall. At just the point that you think you have control of the thing, it shimmies out of your grasp.
- The term “growth hacking” has only been around since 2010 and is credited to an article by Sean Ellis on the blog Startup Marketing (startup-marketing.com) entitled, “Find a Growth Hacker for Your Startup.”
- Ellis begins the post by saying, “Once startups are ready to scale, their biggest challenge is often hiring someone capable of leading the growth charge.   A marketer with the right talents and approach can kick some serious ass once product-market fit and an efficient conversion / monetization process have been proven.”
- A few paragraphs later, he defines the term “growth hacker” in this way, “A growth hacker is a person whose true north is growth.  Everything they do is scrutinized by its potential impact on scalable growth.  Is positioning important? Only if a case can be made that it is important for driving sustainable growth (FWIW [for what it’s worth], a case can generally be made).”
- Since Ellis’ post, many writers and industry pundits have run with the term “growth hacker” and made it as magically elusive and sometimes as questionably valid as the Reagan era “voodoo economics.” Here’s how I see growth hacking . . . and you don’t need a cauldron and a spell book to make it work.
- 
-Growth hacking is marketing for the 21st century.
- 
-“Really?” you say, “That’s all you’ve got for me?”
- Go watch a few episodes of the television series Mad Men and come back and tell me if a 1960s era ad campaign would work today.
- When I first began working online in the early 1990s doing web design, animated GIFs were all the rage. I think now about the pulsating rule bars and spinning globes that were the “in” thing and cringe. It’s as bad as 1960s era fashion, clouds of cigarette smoke, and lava lamps.
+> Writing a book about `growth hacking` can be a little like the proverbial hopeless task of nailing Jell-O to the wall. 
 
+`growth hacking`에 관한 책을 쓰는 것은 Jell-O를 벽에 못 박는 절망적 인 작업과 비슷할 수 있습니다.
+
+> At just the point that you think you have control of the thing, it shimmies out of your grasp.
+
+당신이 그 일을 통제 할 수 있다고 생각하는 바로 그 지점에서 그것은 당신의 손아귀를 벗어납니다.
+
+> The term “growth hacking” has only been around since 2010 and is credited to an article by Sean Ellis on the blog Startup Marketing (startup-marketing.com) entitled, “Find a Growth Hacker for Your Startup.”
  
-Okay, lava lamps are still cool, but I digress.
- In the first chapter of this book, I try to introduce you to the figure of a growth hacker and invite you into his mindset. As you read through the text, including the profiles of 40 companies that have successfully used growth hacking techniques, you’ll come to understand the importance of that one fundamental quality a growth mindset.
- The growth hackers at the companies I discuss expected their efforts to grow from day one, they wanted that growth, and they focused all their efforts on achieving growth.
-Elliot Schmukler at LinkedIn analyzed the channels that brought users to the site and brilliantly linked the actions of “actives” to “inactives” to grow membership.
+"growth hacking"이라는 용어는 2010 년 이후에 나온 용어로 Startup Marketing (startup-marketing.com) 블로그의 Sean Ellis가 "당신의 스타트업을 위한 growth hacker 찾기"라는 제목의 기사에서 유래하였습니다.
+
+> Ellis begins the post by saying, “Once startups are ready to scale, their biggest challenge is often hiring someone capable of leading the growth charge. A marketer with the right talents and approach can kick some serious ass once product-market fit and an efficient conversion / monetization process have been proven.”
+
+Ellis는“스타트 업이 확장 할 준비가되면 가장 큰 과제는 성장을 주도 할 수있는 사람을 고용하는 것입니다. 적절한 재능과 접근 방식을 갖춘 마케터는 제품 시장 적합성과 효율적인 전환 / 수익 화 프로세스가 입증되면 심각한 문제를 해결해낼 수 있습니다. "
+
+> A few paragraphs later, he defines the term “growth hacker” in this way, “A growth hacker is a person whose true north is growth. Everything they do is scrutinized by its potential impact on scalable growth. Is positioning important? Only if a case can be made that it is important for driving sustainable growth (FWIW [for what it’s worth], a case can generally be made).”
+
+몇 단락 후에 그는 이렇게 정의합니다.“growth hacker는 진정한 목적지가 성장 인 사람입니다. 그들이 하는 모든 일은 확장 가능한 성장에 미치는 잠재적 인 영향으로 면밀히 조사됩니다. 포지셔닝이 중요합니까? 지속 가능한 성장을 추진하는 데 중요하다고 할 수 있는 경우에만 사례를 만들 수 있습니다.”
+
+
+> Since Ellis’ post, many writers and industry pundits have run with the term “growth hacker” and made it as magically elusive and sometimes as questionably valid as the Reagan era “voodoo economics.” 
+
+Ellis의 블로그 글 이후, 많은 작가와 업계 전문가들은 "growth hacker"라는 용어를 많이 사용하기 시작했는데, 레이건 시대의 "부두 경제학"만큼이나 이해하기 어렵고 때로는 의심 스러울 정도로 유효하게 만들었습니다.
+
+> Here’s how I see growth hacking . . . and you don’t need a cauldron and a spell book to make it work.
  
-Ride-for-hire company Uber cultivated a local market roll out plan and refined and repeated it one market at a time.
+growth hacking에 대한 저의 견해는 다음과 같습니다. . . 이걸 하기위해 가마솥과 마법서는 필요하지 않습니다.
  
-Etsy exploited an overlooked group of sellers that eBay was pushing out and catered specifically to their needs.
+> Growth hacking is marketing for the 21st century.
+
+growth hacking은 21 세기를위한 마케팅입니다.
  
-Pinterest built interest and desire with an invitation-only beta and seeded the site with professional content from designers who immediately grasped the concept of building online inspiration boards.
+> “Really?” you say, “That’s all you’ve got for me?”
+
+"정말요? 그게 당신이 나에게 해줄 얘기의 전부입니까?"라고 묻겠죠.
+
+> Go watch a few episodes of the television series Mad Men and come back and tell me if a 1960s era ad campaign would work today.
+
+TV 시리즈 Mad Men의 몇 가지 에피소드를보고 돌아와서 1960 년대 광고 캠페인이 오늘날에도 효과가 있을지 말해주세요.
+
+> When I first began working online in the early 1990s doing web design, animated GIFs were all the rage. 
+
+1990 년대 초에 내가 처음으로 웹 디자인 작업을 시작했을 때는 애니메이션 GIF가 대세였습니다.
+
+> I think now about the pulsating rule bars and spinning globes that were the “in” thing and cringe. 
+
+나는 이제 "안"되고 움츠러 들었던 펄럭이는 룰 바와 회전하는 구체에 대해 생각합니다.
+
+> It’s as bad as 1960s era fashion, clouds of cigarette smoke, and lava lamps.
+
+1960 년대 패션, 담배 연기, 용암 램프만큼이나 나쁩니다.
  
-Yelp leveraged the desire for first-person recommendations with perceived authority, all built on the founder’s need for a doctor when he came down with a flu.
+> Okay, lava lamps are still cool, but I digress.
+
+좋아, 용암 램프는 여전히 훌륭하지만 나는 빠져 나간다.
+
+> In the first chapter of this book, I try to introduce you to the figure of a `growth hacker` and invite you into his mindset.
+
+이 책의 1 장에서는 `growth hacker`의 모습을 소개하고 그의 사고 방식으로 여러분을 초대합니다.
+
+> As you read through the text, including the profiles of 40 companies that have successfully used growth hacking techniques, you’ll come to understand the importance of that one fundamental quality a growth mindset.
+
+그로스 해킹 기술을 성공적으로 사용한 40 개 회사의 프로필을 읽으면서 그 기본 품질의 중요성을 성장 마인드로 이해하게 될 것입니다.
+
+> The growth hackers at the companies I discuss expected their efforts to grow from day one, they wanted that growth, and they focused all their efforts on achieving growth.
  
-Square founder Jim McKelvey lost a $2,000 sale on a piece of art glass at a fair because he couldn’t accept a credit card, so he founded a company that brought mobile payment technology to cell phones and tablets regardless of location.
+제가 소개한 회사의 그로스 해커들은 첫날부터 성장할 것을 기대했고 그 성장을 원했고 성장을 달성하는 데 모든 노력을 집중했습니다.
+ 
+> Elliot Schmukler at LinkedIn analyzed the channels that brought users to the site and brilliantly linked the actions of “actives” to “inactives” to grow membership.
+
+LinkedIn의 Elliot Schmukler는 사용자를 사이트로 유도 한 채널을 분석하고 멤버십을 늘리기 위해 "활동"과 "비 활동"을 훌륭하게 연결했습니다.
+
+> Ride-for-hire company Uber cultivated a local market roll out plan and refined and repeated it one market at a time.
+
+Ride-for-hire 회사 인 Uber는 현지 시장 출시 계획을 수립하고 한 번에 한 시장 씩 개선하고 반복했습니다.
+
+> Etsy exploited an overlooked group of sellers that eBay was pushing out and catered specifically to their needs.
+
+Etsy는 eBay에서 퇴출되었지만 특별히 그들의 요구를 충족시키는 간과된 판매자 그룹을 활용했습니다.
+
+> Pinterest built interest and desire with an invitation-only beta and seeded the site with professional content from designers who immediately grasped the concept of building online inspiration boards.
+
+Pinterest는 초대 전용 베타를 통해 관심과 욕구를 구축했으며, 온라인 영감 보드 구축 개념을 즉각 파악한 디자이너의 전문 콘텐츠를 사이트에 시드했습니다.
+
+> Yelp leveraged the desire for first-person recommendations with perceived authority, all built on the founder’s need for a doctor when he came down with a flu.
+
+Yelp는 독감에 걸렸을 때 의사가 필요한 것 처럼 창립자의 의지에 따라, 권위가 있는 1 인칭 추천에 대한 열망을 활용했습니다.
+
+> Square founder Jim McKelvey lost a $2,000 sale on a piece of art glass at a fair because he couldn’t accept a credit card, so he founded a company that brought mobile payment technology to cell phones and tablets regardless of location.
+
+Square의 설립자 인 Jim McKelvey는 신용카드를 받지 못해 박람회에서 유리예술작품을 2,000 달러에 판매할 기회를 잃었습니다. 그래서 그는 장소에 관계없이 휴대 전화와 태블릿을 통한 모바일 결제 기술 회사를 설립했습니다.
 
 These examples are only samples of the strategies employed by some of the most successful growth hackers of our time who understand that the first principle of growth hacking is that markets change and successful marketers change with them.
- In fact, everything about web access and use has changed and is continuing to do so around us, thanks to the rise of the smartphone and the connected tablet. Mobile devices are generating more and more web consumption, including watching streaming video content. Growing your business in this climate demands meeting the needs of the mobile user.
+
+ In fact, everything about web access and use has changed and is continuing to do so around us, thanks to the rise of the smartphone and the connected tablet. 
+ Mobile devices are generating more and more web consumption, including watching streaming video content. 
+ Growing your business in this climate demands meeting the needs of the mobile user.
  The more the cellphone providers can pump out in terms of affordable mobile bandwidth and the more free wifi spots become available in municipalities, the more that trend won’t just grow, but explode exponentially.
- The days of sitting down in front of a desktop computer to do something online are rapidly passing into the dim recesses of memory. People want to be able to buy things from their phones, hail a ride, meet people, video conference – be connected.
- Old marketing concepts don’t work in a world that is online to that extent. I used to have a running argument with a friend who insisted to me that the Internet is not a “place.” I still beg to differ that it is indeed a place, and the portals of entry are now no farther away than our mobile devices.
+ The days of sitting down in front of a desktop computer to do something online are rapidly passing into the dim recesses of memory. 
+ People want to be able to buy things from their phones, hail a ride, meet people, video conference – be connected.
+ Old marketing concepts don’t work in a world that is online to that extent. 
+ I used to have a running argument with a friend who insisted to me that the Internet is not a “place.” I still beg to differ that it is indeed a place, and the portals of entry are now no farther away than our mobile devices.
  If your particular branded portal, be it an app or a website, that leads to your product or service is not optimized for the mobile user experience, you’re in trouble. All the beautiful SEO in the world won’t save you.
- Growth hacking isn’t about running “an ad campaign,” it’s about living a constant philosophy of growth – never resting on your laurels, being prepared to change your course with the needs of the marketplace. In short, growth hacking is as dynamic as the Internet itself.
- And there’s no ONE way to do it. That’s where the nailing Jell-O part comes in. A lot of people are saying they can teach growth hacking, but I think the age old model of the master and the apprentice is much more applicable.
- There really is something of the Jedi knight in the successful growth hacker. You can learn all kinds of techniques from stories about growth hacks that worked. The bulk of this text is about doing that very thing, profiling companies and their growth hacks and absorbing the lessons they have to teach those who come after them. 
+ Growth hacking isn’t about running “an ad campaign,” it’s about living a constant philosophy of growth – never resting on your laurels, being prepared to change your course with the needs of the marketplace. 
+ In short, growth hacking is as dynamic as the Internet itself.
+ And there’s no ONE way to do it. That’s where the nailing Jell-O part comes in. 
+ A lot of people are saying they can teach growth hacking, but I think the age old model of the master and the apprentice is much more applicable.
+ There really is something of the Jedi knight in the successful growth hacker. 
+ You can learn all kinds of techniques from stories about growth hacks that worked. 
+ The bulk of this text is about doing that very thing, profiling companies and their growth hacks and absorbing the lessons they have to teach those who come after them. 
 But to really be “one with the Force?” That’s between you and your product, your market, your customers and users, your software engineers – and likely your financier. Growth hacking is about finding the sweet spot where inspiration and perspiration meet.
- It’s about using the most up-to-date tools to analyze market trends and then rolling the bones to make them work. It’s about calculated decisions and out and out scrappy trickery.
+ It’s about using the most up-to-date tools to analyze market trends and then rolling the bones to make them work. 
+ It’s about calculated decisions and out and out scrappy trickery.
  When it works, it’s a thing of beauty and not surprisingly, there are already legendary growth hacking stories like AirBnB’s bot-driven hack of Craigslist in the absence of a publicly available API.
  Not all growth hacks fall into such maverick territory, but they do show that there’s still something of a frontier element to the online world and still plenty of opportunity for innovative startups to enter the fray and make it big.
 
 # Meet the Growth Hacker
 
- 
-The question I encounter more than any other with people who are new to this topic isn’t, “How do I growth hack?” A surprising number of people are still at, “What the heck is growth hacking?”
+The question I encounter more than any other with people who are new to this topic isn’t, “How do I growth hack?” 
+A surprising number of people are still at, “What the heck is growth hacking?”
  Since growth hacking is as much an art as a skill, you’re right to ask both questions in the beginning of your understanding of this exciting new approach to marketing.
- A “growth hacker” is a hybrid beast, a skilled mix of a technical genius and a marketer. He’s leading the way in the rapid development of a new “standard” business model. In the process, he’s making every definition of “marketing” you ever learned completely irrelevant.
-The Growth Hacking Mindset
+ A “growth hacker” is a hybrid beast, a skilled mix of a technical genius and a marketer. 
+ He’s leading the way in the rapid development of a new “standard” business model. In the process, he’s making every definition of “marketing” you ever learned completely irrelevant.
+ 
+## The Growth Hacking Mindset
  
 At the very least, growth hackers are rewriting the standard “best practices” of marketing. Many are doing so from the coding perspective of the genius geeks who built the Internet as we know it today.
  Growth hackers don’t see marketing as an activity, per se, but a fundamental aspect of how a product or service is designed and built. Subsequent versions or iterations are optimized and shared on the basis of ongoing evaluations of success.
@@ -75,7 +152,7 @@ Marketing language is not as important as the mechanism that sends the email and
  Armed with the ability to track, test, and improve every imaginable Internet metric, growth hackers are not attracted to the enormous gambles that were once the lifeblood of the dot come world.
  They don’t do anything that is unnecessary or counterproductive, and they know the value of small, but highly elegant strategies.
  
-Lessons Learned from Hotmail and Gmail
+## Lessons Learned from Hotmail and Gmail
  
 Take, for instance, the example of Hotmail, a classic in every growth hacking conversation. The simple strategy there was the answer to the question, “Can we put a message at the bottom of everyone’s screen who gets an email from our service?”
  That translated to an advertisement for the product on every email sent. In six months, Hotmail had 1 million members, a figure the service then doubled in just five weeks. When Microsoft bought Hotmail in December 1997 for $400 million, there were nearly 10 million users.
@@ -83,14 +160,15 @@ Take, for instance, the example of Hotmail, a classic in every growth hacking co
  When Google launched Gmail the company followed many of the same growth strategies. They built an excellent product, but created curiosity and buzz by making its initial use by invitation only.
  The number of potential invites was increased along with the existing user base, spreading Gmail usage and popularity from person to person. Now, Gmail is the dominant and best free email service with 425 million users reported in 2012.
 
-Growth is the Focus
+## Growth is the Focus
  
 Growth hackers are charged with taking “nothing” and turning it into “something” as fast as they possibly can.
  To do so, the traditional marketing playbook goes out the window in favor of all things trackable, testable, and scalable.
  Once upon a time the buzz words of the business world were publicity, advertising, branding, and “mind share.” All growth hackers do is pursue growth.
  Their tools are things like email, pay-per-click, blogs, and platform APIs. Their mantra is almost Biblical, “And users beget users, who beget users, who beget . . . “
  
-Fill a Need, No Matter What
+## Fill a Need, No Matter What
+
  The basic principle of marketing still applies, “Who are my customers and where are they?” In classic marketing, the strategy used to reach those customers was honed and refined, but the business and product remained basically the same.
  Growth hackers believe changing the entire business model is completely fair game. They’re not interested in just redesigning the cereal box, nor are they even dedicated to making the cereal! The only goal is to generate explosive reactions and complete loyalty from the customer.
  The best marketing decision is to fulfill a real and compelling need for those customers. If that means changing the business itself to reach them, the growth hacker says, “Let’s do it!”
@@ -103,7 +181,8 @@ Is this the right job for the product?
 
  
 And on and on and on until you get the Holy Grail — Product Market Fit (PMF).
-Match Making with Early Adopters
+
+## Match Making with Early Adopters
  
 Matching the way products are marketed with the way prospects learn about and shop for those products is a crucial aspect of growth hacking.
  Early adopters are key to this process and can make or break a business launch. Any product or service that can, in the beginning, grab and keep the interest of early adopters that become loyal and fanatical users stands a much greater chance of achieving the kind of explosive growth that is the ultimate goal.
@@ -118,7 +197,7 @@ This is a lesson that self-published authors are learning. The new product model
  Not all of these books are great works of literature. In fact, most of them aren’t. That’s not the point. The books sell, and they generate excellent long-term income for the authors. Is it any wonder that traditional publishers fear the growing power of independent authors and the rise of the ebook?
  Every startup, even if it’s a self-published zombie novel, is designed to be one thing — a growth engine.
  
-Going Viral Isn’t an Accident
+## Going Viral Isn’t an Accident
  
 Most people think “going viral” is an accident, and if you’ve shot a YouTube video that has generated buzz, it probably is. If you’re a growth hacker, however, you don’t view going viral or achieving “virality” as something that happens after the fact. 
 You know that successful products are inherently worth sharing and you facilitate and encourage that sharing every way you possibly can. You know that products and services have to advertise themselves, and you know the value of “behavioral residue.” Social currency is free, but it is also invaluable to the point of being priceless.
@@ -132,17 +211,70 @@ The chance of selling to a new prospect is 5-20% — to an existing customer, 60
 Growth hackers achieve success by doing whatever they have to do not just to bring customers into the “funnel,” but into the “family.” Budgets go toward targeted product and service refinement or even redirection, not advertising.
  In this model, the price of being “wrong” is greatly reduced because you grant yourself the freedom to change on the fly. As long as your customers are happy and using your service or buying your product, you are a success.
  
-How Do I Learn to be a Growth Hacker?
- As I said earlier, growth hacking is as much an art as a science. The tools to grow one product or service won’t necessarily work for another. This is not a set process of steps, or a “do this” and then “do that” way of thinking.
- In my opinion, one of the best ways to become a growth hacker is to study at the feet of masters. To that end, I’m devoting the remainder of this book to profiling some of the most impressive (if not always the best known) examples of how products and services have benefited from innovative growth hacking techniques.
- “But wait,” you say. “If I’ve never heard of a company or a service, how can it be a success?” Because each of these entities has a dedicated set of core users. Growth hacking even redesigns what it means to be a success!
- Remember those self-published authors? Many are remodeling their homes and funding their children’s college education on the reading tastes of fewer than 1,000 dedicated readers.
- To a Stephen King, a readership that small might not be a success, but to an indie author, it’s their ticket to a completely changed lifestyle. Both authors are “successes,” but their success is defined differently.
- Stephen King is an internationally recognized author. The indie guy? His mortgage is paid off and his kid is going to college. That’s more than enough success in his book.
- As you begin to read the profiles that comprise the bulk of this book, take your first step toward becoming a growth hacker by throwing out both the rulebook and the dictionary.
- You truly are about to enter a “brave new world,” and frankly, it’s a pretty exciting landscape out there!
+## How Do I Learn to be a Growth Hacker?
 
+> As I said earlier, `growth hacking` is as much an art as a science. 
 
+앞서 말했듯이 `growth hacking`은 과학이라기 보다는 예술입니다.
+
+> The tools to grow one product or service won’t necessarily work for another. 
+ 
+하나의 제품 또는 서비스를 성장시키는 도구가 반드시 다른 제품이나 서비스에도 적용되는 것은 아닙니다.
+
+> This is not a set process of steps, or a “do this” and then “do that” way of thinking.
+ 
+이것은 일련의 단계적 과정이 아니라서,“이렇게”한 다음“그렇게”생각하는 방식이 아닙니다.
+
+> In my opinion, one of the best ways to become a `growth hacker` is to study at the feet of masters. 
+ 
+제 생각에 `growth hacker`가되는 가장 좋은 방법 중 하나는 마스터의 발밑에서 공부하는 것입니다.
+
+> To that end, I’m devoting the remainder of this book to profiling some of the most impressive (if not always the best known) examples of how products and services have benefited from innovative growth hacking techniques.
+ 
+이를 위해 이 책의 나머지 부분에서는 제품과 서비스가 혁신적인 growth hacking 기술의 이점을 얻은 방법에 대한 가장 인상적인 (항상 가장 잘 알려진 것은 아니지만) 몇 가지 사례를 프로파일링하는 데 전념할 예정입니다.
+
+> “But wait,” you say. “If I’ve never heard of a company or a service, how can it be a success?” 
+ 
+"하지만 잠깐만, 회사 나 서비스에 대해 들어 본 적이 없다면 어떻게 이것을 성공이라고 할 수 있습니까?" 라는 의문을 가질 수 있습니다.
+
+> Because each of these entities has a dedicated set of core users. 
+ 
+이러한 각 엔터티에는 전용 핵심 사용자 그룹이 있기 때문입니다.
+
+> Growth hacking even redesigns what it means to be a success!
+
+그로스 해킹은 성공의 의미까지 재 설계합니다!
+
+> Remember those self-published authors? Many are remodeling their homes and funding their children’s college education on the reading tastes of fewer than 1,000 dedicated readers.
+ 
+자체 출판 저자를 기억하십니까? 그들 중 많은 사람들이 1,000 명 미만의 독자 취향 맞춘 저술의 댓가로 수익을 얻어 집을 리모델링하고 자녀의 대학 교육에 자금을 지원하고 있습니다. 
+
+> To a Stephen King, a readership that small might not be a success, but to an indie author, it’s their ticket to a completely changed lifestyle. 
+
+Stephen King에게는 작은 독자층이 성공으로 간주되지 못할 수도 있지만 인디 작가에게는 완전히 변화된 라이프 스타일로가는 티켓입니다.
+
+> Both authors are “successes,” but their success is defined differently.
+
+두 저자 모두“성공”이지만 그들의 성공은 다르게 정의됩니다.
+
+> Stephen King is an internationally recognized author. 
+
+Stephen King은 국제적으로 인정받는 작가입니다.
+
+> The indie guy? His mortgage is paid off and his kid is going to college. 
+인디 작가, 그는 수익을 얻어 대출금도 갚고 그의 아이는 대학에 갑니다.
+
+> That’s more than enough success in his book.
+
+이는 그의 책을 통해 충분히 성공한 것 이상입니다.
+
+> As you begin to read the profiles that comprise the bulk of this book, take your first step toward becoming a `growth hacker` by throwing out both the rulebook and the dictionary.
+
+이 책의 대부분을 구성하는 프로필을 읽기 시작하면서 룰북과 사전을 모두 버리고 `growth hacker`가되기위한 첫 걸음을 내 딛으십시오.
+
+> You truly are about to enter a “brave new world,” and frankly, it’s a pretty exciting landscape out there!
+
+진정으로 "용감한 신세계"로 들어 가려고합니다. 솔직히 말해서 정말 흥미로운 풍경입니다!
  
 ```{r include=FALSE}
 # automatically create a bib database for R packages
