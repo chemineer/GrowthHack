@@ -1,0 +1,15 @@
+# AirBnB
+ 
+The San Francisco company Airbnb was founded in August 2008. It currently has more than 500,000 listings for lodgings available for rent in 34,000 cities and 192 countries. A wide variety if spaces are included, from whole house to rooms and even some private islands!
+ The service’s success was largely dependent on a brilliant albeit questionably ethical growth hacking strategy involving Craigslist. Before they were shut down, Airbnb had an option for users to cross post their available accommodation listings to Craigslist, which created inbound links both for the individual user, but also for the Airbnb platform.
+ This is one of the more infamous and technical of the “great” growth hacking stories, and worked brilliantly until AirBbB began to directly contact Craigslist users. Those people had no idea who or what AirBnB was and began to complain that the company was using a “black hat” hack.
+ The interactions AirBnB attempted to initiate were fairly aggressive, going out to Craigslist users who had specifically indicated they did not want to be contacted by commercial entities. While AirBnB was working outside of the Terms of Service for Craigslist, they characterized the relationship as “symbiotic.”
+ This claim is highly semantic since Craigslist didn’t offer a public API in 2009. The AirBnB hack was a reverse engineered stealth integration. The engineers created a bot that automatically posted listings to Craigslist by logging in, acquiring a URL, filling in all the necessary information, and allowing the AirBnB user to hit the “post to CL” option.
+ The coding behind the hack was complex and capable of jumping through a number of hoops on the Craigslist end, including the default anonymous address provided to posters. Without a doubt, AirBnB knew that if they were caught, they’d be kicked off, which is exactly what happened.
+ They invested the time, money, and considerable programming resources to complete the hack anyway because they knew that by the time they were caught, they would already have captured their own user base and from that point could be self-sufficient.
+ 
+ 
+It is not unusual for a startup to leverage the power of an existing big platform. Just look at the success Zynga has had providing access to its games via Facebook. The difference is that AirBnB took a guerrilla approach to the “bootstrapping” and did so without the knowledge or consent of Craigslist.
+ Without question, the growth hack worked for AirBnB and it does illustrate the idea that all marketing techniques, including aggressive growth hacks, have a short lifespan. If, however, they can deliver big results before they “die,” the strategy can still have merit so long as you don’t completely compromise the reputation of your business in the process and lose user confidence.
+ This didn’t happen in the case of AirBnB because the hack was so sophisticated, most users were unaware of it and didn’t understand it if they became aware. In the tech community in 2009 this sort of maverick behavior was still reasonably common, so AirBnB had everything to gain and little to lose.
+

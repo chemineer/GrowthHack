@@ -1,0 +1,22 @@
+# Belly
+ 
+Belly is a digital loyalty platform launched in 2011. Customers earn points or redeem rewards at participating stores by using a physical “Bellycard” or a mobile app. An in-store tablet serves as the establishment’s Belly “hub” and is the user point of access.
+ The exchange of data allows businesses to establish email communication with their customers, gain better exposure on social media sites, and collect information on which they can base better business decisions to create relationships and increase customer loyalty.
+ After a pre-determined number of check-ins, loyal users are automatically prompted to review the store on Yelp, which further enhances word of mouth. This slick, fun, and frictionless system was developed by the Belly growth team through a graduated system of highly localized roll outs.
+ This old-fashioned “boots on the ground” approach began in Chicago where the team interviewed hundreds of merchants to better understand their needs and the unique obstacles they faced in their area.
+ The research paid off by helping the team to understand that merchants wanted an easy, affordable way to build long-term, deep relationships with customers that offered measurable returns.
+ The developers at Belly then set about building a focused solution for customer relationship management and retention. Their target audience, small and medium businesses, is a notoriously difficult market sector.
+ SMBs are slow to accept new technologies and have limited funds, making them the very definition of “hard sell.” Belly overcame this skepticism with a clearly articulated value proposition and a very low-friction adoption process. The company’s all-in-one plans start at $79 a month and included all the necessary hardware.
+ After leveraging local customer development in Chicago and learning more about SMBs in the process, Belly launched in Austin, Texas at the annual South By Southwest tech conference, thus gaining both a second market and the attention of influential trendsetters.
+
+ 
+Smart rollouts in carefully targeted markets became Belly’s repeat strategy, which, along with the continued development of the Belly app, spread word of mouth awareness.
+ Not only is the Belly app integrated with Facebook for easy sharing, but the reward system has a “gamified” approach customers find appealing.
+ The growth hackers at Belly have designed a system that hits four levels of psychological rewards for users:
+the rush of discovering something new competitive satisfaction of earning points development of perceived status in the system 
+monetary benefits 
+Each of these elements is a powerful driver for sharing and adoption, especially 
+among groups of friends where the competitive element of Belly use easily takes hold.
+ As soon as consumers start asking businesses if they are members of the Belly network, the owners get interested, fearing they might be missing out on an important sales driver. This curiosity leverages growth in business memberships as a by-product of customer use, thus making Belly more self-sustaining as it grows.
+ The strategy has taken Belly from 17,000 users and 275 member merchants in December 2011 to a presence in 6,000 businesses spread over 46 states with more than two million users in July 2013.
+ This includes strategic partnerships with national retail chains like Chik-Fil-A and Dairy Queen, and more recently, full integration with Apple’s Passbook and Google Wallet.

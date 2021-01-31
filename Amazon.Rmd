@@ -1,0 +1,23 @@
+# Amazon
+ 
+Amazon.com, founded in 1994, is the largest online retailer in the world. Originally, the site sold only books, but as its offerings have diversified, virtually anything can now be purchased through its online stores.
+
+Additionally, the company produces a popular line of Kindle ebook readers that is largely credited with helping the digital book format to explode in popularity in recent years.
+ Before the site was ever launched, Amazon founder Jeff Bezos, attracted by the then projected web commerce growth of 2300%, analyzed the potential for various items to be sold online. He settled on books due to historic demand, low inventory price points, and the large number of titles in print.
+ Within two months, Amazon’s sales reached $20,000 a week, a degree of success no doubt aided by Bezos’ friendship with John Ingram of the Ingram Content Group, the largest distributor of books in the world.
+ In the first six months of operation, Amazon sold $500,000 worth of books. Five years later revenue hit $1.6 billion, and in 2013 the number skyrocketed to $17.09 billion.
+ There is no question that the site is popular and successful. In fact, the name Amazon is now synonymous with buying online, but the one thing that has consistently eluded the company is profit.
+ 
+ 
+Bezos was clearly correct in his initial assessment of market fit, and the company has gone on to include the products he initially rejected as the basis for his business: CD/DVDs, computer hardware/software, and videos, plus much, much more.
+ In fact, Amazon has consistently worked to expand its market fit and reach. The company’s closely integrated business model attempts to remove friction from the online buying process while offering exceptional value in pricing and item choice.
+ There is an optional “one-click” shopping button linked to a credit card associated with a user’s profile. Orders of more than $25 ship free. If the user is a member of the Amazon Prime program, all qualifying products receive free two-day shipping. Amazon clearly proves the assertion that the easier the shopping experience, the more the individual user will purchase.
+ Prime membership also gives users access to thousands of hours of free streaming video. Both movies and television programs are available for purchase and are stored in the user’s online video library, as is purchased music. As more and more mobile users are becoming accustomed to streaming content from their devices, this is an excellent value-added proposition for the Prime subscription.
+ Side-by-side with its offering of new books, Amazon allows sellers to market used books and small businesses can apply to sell their items on the site as well.
+ While not as robust or active a small business climate as eBay or Etsy, the potential to earn money with sales on Amazon does still exist and given the size of the marketplace is attractive to individual entrepreneurs.
+ The Amazon API has long been available to outside sources so products listed on the company site can be sold elsewhere on the web, with the poster earning small commissions on each sale.
+ Through the company’s companion Createspace and KDP sites, authors can self-publish their works in both paper and electronic formats. For ebooks published for the Kindle priced from $2.99-$9.99, authors earn 70% royalties.
+ Is the lack of profitability in the face of such variety evidence that Amazon is trying to do too much? That it cannot be all things to all people? Or is it simply an obstacle to be overcome on the way to building what has now become in Jeff Bezos’ mind an online content ecosphere?
+ Critics are sharply divided in their answers, but one thing is clear. If you do your market research as Bezos did, and if you offer a quality users experience with a high value proposition and low friction, you can grow your site. In the days leading up to Christmas 2013, Amazon sold 426 items per second!
+ The Amazon Prime program has a membership of approximately 20 million and the site attracts more than 65 million customers in the United States alone each month. Amazon maintains stores that service Asia, Europe, North and South America, and Australia.
+ And, without question, Amazon does continue to innovate in proper growth hacker fashion. The company is experimenting with drone delivery and beginning to roll out one-day shipping in select markets. In the first quarter of 2014, Amazon’s revenue grew 23%, edging the company every closer to its long-sought-after profitability.
